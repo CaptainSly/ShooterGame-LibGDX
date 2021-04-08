@@ -1,0 +1,167 @@
+
+images.png
+size: 8192, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Starscape00
+  rotate: false
+  xy: 2166, 112
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Starscape01
+  rotate: false
+  xy: 2, 112
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Starscape02
+  rotate: false
+  xy: 3248, 112
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Starscape03
+  rotate: false
+  xy: 1084, 112
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+bold_silver
+  rotate: false
+  xy: 170, 80
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+bolt_bronze
+  rotate: false
+  xy: 4363, 1777
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+bolt_gold
+  rotate: false
+  xy: 4508, 1925
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+enemyRed3
+  rotate: false
+  xy: 4330, 1809
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+laserBlue02
+  rotate: false
+  xy: 4330, 1738
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+laserRed02
+  rotate: false
+  xy: 4435, 1824
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+pill_blue
+  rotate: false
+  xy: 4476, 1902
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+pill_green
+  rotate: false
+  xy: 137, 25
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+pill_red
+  rotate: false
+  xy: 4609, 2011
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+pill_yellow
+  rotate: false
+  xy: 4577, 1979
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+playerShip1_green
+  rotate: false
+  xy: 4476, 1957
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 2, 2
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+shield3
+  rotate: false
+  xy: 4330, 1895
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+shield_bronze
+  rotate: false
+  xy: 4577, 2002
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shield_gold
+  rotate: false
+  xy: 137, 48
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shield_silver
+  rotate: false
+  xy: 4476, 1925
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+star_bronze
+  rotate: false
+  xy: 4435, 1863
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+star_gold
+  rotate: false
+  xy: 4330, 1777
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+star_silver
+  rotate: false
+  xy: 137, 80
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
